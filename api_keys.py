@@ -1,1 +1,3 @@
 api_key_FBI="ePO1sQcPSnSYpfnsdfriGACTxzZScged0XX3tNPm"
+
+weather_api_key="e242a767dcbbcc3168a1ddd3bd20fcc2"
