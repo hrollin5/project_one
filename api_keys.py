@@ -1,2 +1,0 @@
-api_key_FBI="ePO1sQcPSnSYpfnsdfriGACTxzZScged0XX3tNPm"
-weather_api_key = "7819d438096892ee2d9d212b102fadfd"
