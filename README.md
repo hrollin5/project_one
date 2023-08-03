@@ -11,7 +11,9 @@ The purpose of this project is to analyze which state would be best to live in b
 ### Datasets Used
 Crime: FBI Homicide data for the year 2021. Accessed via the FBI Crime Data API on August 2, 2023.
   - The API returns total homicides, we used census estimates for state populations in 2021 to calculate homicide rate per 100,000 people. The dataset and estimate methodologies are available at https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html. The data was accessed on July 28, 2023.
+
 Healthcare Costs: Forbes Advisor Analysis of Kaiser Family Foundation data on healthcare costs for the year 2020. Scores were given to each state from 0-100 with 0 being the lowest healthcare cost. CSV file and methodologies are available at https://www.forbes.com/advisor/health-insurance/most-and-least-expensive-states-for-health-care-ranked. Accessed July 20, 2023
+
 Cost of Living Index: World Population Review data on cost of living in the United States in 2023. Each state is given a score against the national average baseline, which is set at 100. Methodologies and dataset are available at https://worldpopulationreview.com/state-rankings/cost-of-living-index-by-state. Accessed July 20, 2023.
 
 ### Main Questions and Images of Findings
